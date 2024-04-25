@@ -1,0 +1,14 @@
+/* Mike Jenkins */
+/* 20 APR 20XX */
+/* Web Page Template */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;;
+}
+
+:root {
+    --white: #fff;
+    --red: #f00;
+}
