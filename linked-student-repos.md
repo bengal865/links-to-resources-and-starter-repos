@@ -8,4 +8,4 @@
 
 ## Starter Repos
 
-- [List item](https://github.com/bengal865/student-templates.git)
+- [List item](https://github.com/bengal865/web-project-template)
