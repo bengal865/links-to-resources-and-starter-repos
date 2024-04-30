@@ -7,4 +7,4 @@
 ## Starter Repos
 
 1. [web-project-template](https://github.com/bengal865/web-project-templates)
-2. [python-project-template]()
+2. [python-project-template](https://github.com/bengal865/python-project-templates)
