@@ -8,3 +8,7 @@
 
 1. [web-project-template](https://github.com/bengal865/web-project-templates)
 2. [python-project-template](https://github.com/bengal865/python-project-templates)
+3. [js-array-basics](https://github.com/bengal865/array-basics)
+4. [function-expressions-starter](https://github.com/bengal865/function-expressions-starter)
+5. [arrow-functions-starter](https://github.com/bengal865/arrow-functions-starter)
+6. [js-if-statement-starter](https://github.com/bengal865/js-if-statement-starter)
