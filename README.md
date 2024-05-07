@@ -12,3 +12,4 @@
 4. [function-expressions-starter](https://github.com/bengal865/function-expressions-starter)
 5. [arrow-functions-starter](https://github.com/bengal865/arrow-functions-starter)
 6. [js-if-statement-starter](https://github.com/bengal865/js-if-statement-starter)
+7. [js-flooring-calculator-starter](https://github.com/bengal865/flooring-calculator-start)
