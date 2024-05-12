@@ -13,3 +13,4 @@
 5. [arrow-functions-starter](https://github.com/bengal865/arrow-functions-starter)
 6. [js-if-statement-starter](https://github.com/bengal865/js-if-statement-starter)
 7. [js-flooring-calculator-starter](https://github.com/bengal865/flooring-calculator-start)
+8. [evidence-js-functions](https://github.com/bengal865/evidence-js-functions-starter)
