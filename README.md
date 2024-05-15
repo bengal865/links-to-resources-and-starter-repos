@@ -6,7 +6,13 @@
 
 ## Web Starter Repos
 
-1. [web-project-template](https://github.com/bengal865/web-project-templates)
+| Unit 	| Topic 	| URL 	|
+|------	|-------	|-----	|
+|   N/A   	|   Python template    	|   [web-project-template](https://github.com/bengal865/web-project-templates)  	|
+|      	|       	|     	|
+|      	|       	|     	|
+
+1. 
 2. [js-array-basics](https://github.com/bengal865/array-basics)
 3. [function-expressions-starter](https://github.com/bengal865/function-expressions-starter)
 4. [arrow-functions-starter](https://github.com/bengal865/arrow-functions-starter)
