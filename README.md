@@ -17,4 +17,15 @@
 
 ## Python Starter Repos
 1.  [python-project-template](https://github.com/bengal865/python-project-templates)
+2.  [python-project](URL)
+3.  [python-project](URL)
+4.  [python-project](URL)
+5.  [python-project](URL)
+6.  [python-project](URL)
+7.  [python-project](URL)
+8.  [python-project](URL)
+9.  [python-project](URL)
+10.  [python-project](URL)
+11.  [python-project](URL)
+12.  [python-project](URL)
 
