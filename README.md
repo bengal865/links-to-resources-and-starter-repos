@@ -6,12 +6,6 @@
 
 ## Web Starter Repos
 
-| Unit 	| Topic 	| URL 	|
-|------	|-------	|-----	|
-|   N/A   	|   Python template    	|   [web-project-template](https://github.com/bengal865/web-project-templates)  	|
-|      	|       	|     	|
-|      	|       	|     	|
-
 1. 
 2. [js-array-basics](https://github.com/bengal865/array-basics)
 3. [function-expressions-starter](https://github.com/bengal865/function-expressions-starter)
@@ -22,16 +16,10 @@
 
 
 ## Python Starter Repos
-1.  [python-project-template](https://github.com/bengal865/python-project-templates)
-2.  [python-project](URL)
-3.  [python-project](URL)
-4.  [python-project](URL)
-5.  [python-project](URL)
-6.  [python-project](URL)
-7.  [python-project](URL)
-8.  [python-project](URL)
-9.  [python-project](URL)
-10.  [python-project](URL)
-11.  [python-project](URL)
-12.  [python-project](URL)
+
+| Unit 	    | Topic 	           | URL 	                                                                              |
+|------	    |-------	           |-----	|
+| N/A   	  | Python template    | [web-project-template](https://github.com/bengal865/web-project-templates)  	      |
+|      	    |       	           |     	                                                                              |
+|      	    |       	           |     	                                                                              |
 
