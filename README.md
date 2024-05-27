@@ -37,22 +37,22 @@
 
 ## Python Starter Repos
 
-| Unit 	                                     | Topic 	                   | URL 	                                                                                          |
-|------	                                     |-------	                   |----------	                                                                                    |
-| Variables & Data Types  	                 | Variables 101             | [python-variables-starter](https://github.com/bengal865/python-variables-starter)   	          |
-| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      |
-| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      |
-| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      |
-| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      |
-| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      |
-| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      |
-| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      |
-| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      |
-| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      |
-| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      |
-| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      |
-| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      |
-| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      |
+| Unit 	                                     | Topic 	                   | URL 	                                                                                          | Solution                                   |
+|------	                                     |-------	                   |----------	                                                                                    | ----------------
+| Variables & Data Types  	                 | Variables 101             | [python-variables-starter](https://github.com/bengal865/python-variables-starter)   	          | [repo name](https://www.example.com)       |
+| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
+| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
+| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
+| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
+| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
+| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
+| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
+| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
+| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
+| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
+| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
+| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
+| Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
 
 
 
