@@ -17,6 +17,16 @@
 | Functions      | Functions intro           |  [evidence-js-functions](https://github.com/bengal865/evidence-js-functions-starter)      	    |
 | Conditionals   | Switch intro              |  [js-switch-statements](https://github.com/bengal865/switch-statement-js-starter)      	      |
 
+
+
+## Python Resources
+| Unit 	         | Topic 	                   | URL 	                                                                                          |
+|------	         |-------	                   |----------	                                                                                    |
+| All   	       | PCC Solution Files        | [pcc-solutions](https://github.com/ehmatthes/pcc_2e/)  	                                      |
+
+
+
+
 ## Python Starter Repos
 
 | Unit 	                                     | Topic 	                   | URL 	                                                                                          |
