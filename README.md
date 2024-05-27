@@ -39,7 +39,7 @@
 
 | Unit 	                                     | Topic 	                   | URL 	                                                                                          | Solution                                   |
 |------	                                     |-------	                   |----------	                                                                                    | ----------------
-| Variables & Data Types  	                 | Variables 101             | [python-variables-starter](https://github.com/bengal865/python-variables-starter)   	          | [repo name](https://www.example.com)       |
+| Variables & Data Types  	                 | Variables 101             | [python-variables-starter](https://github.com/bengal865/python-variables-starter)   	          | [python-variables-solution](https://github.com/bengal865/python-variables-solution)       |
 | Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
 | Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
 | Unit name               	                 | Topic                     | [repo name](https://www.example.com)   	                                                      | [repo name](https://www.example.com)       |
