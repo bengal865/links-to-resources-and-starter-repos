@@ -20,9 +20,17 @@
 
 
 ## Python Resources
-| Unit 	         | Topic 	                   | URL 	                                                                                          |
-|------	         |-------	                   |----------	                                                                                    |
-| All   	       | PCC Solution Files        | [pcc-solutions](https://github.com/ehmatthes/pcc_2e/)  	                                      |
+| Unit 	         | Topic 	                   | URL 	                                                                                                                 |
+|------	         |-------	                   |----------	                                                                                                           |
+| All   	       | PCC Solution Files        | [pcc-solutions](https://github.com/ehmatthes/pcc_2e/)  	                                                             |
+| Arcade Games   | Assorted labs             | [arcade-labs](http://programarcadegames.com/index.php?chapter=labs)  	                                               |
+| Arcade Games   | Assorted worksheets       | [arcade-worksheets](http://programarcadegames.com/index.php?chapter=sample_worksheets)                                |
+| Arcade Games   | Index of code examples    | [arcade-code-examples](http://programarcadegames.com/index.php?chapter=example_code)                                  |
+| Digital Ocean  | Python ebook              | [digital-ocean-ebook](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python)          |
+| 101 Computing  | Pygame Intro              | [101-computing-pygame-intro](https://www.101computing.net/getting-started-with-pygame/)                               |
+| 101 Computing  | Pygame How Tos            | [101-computing-pygame-howtos](https://www.101computing.net/pygame-how-tos/)                                           |
+| Python Mosh    | Python playlist           | [mosh-python-playlist](https://www.youtube.com/watch?v=_uQrJ0TkZlc)                                                   |
+| Python Traversy | Python playlist          | [traversy-python-playlist](https://youtu.be/JJmcL1N2KQs?feature=shared)                                               |
 
 
 
