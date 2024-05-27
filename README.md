@@ -21,17 +21,18 @@
 
 | Unit 	    | Topic 	           | URL 	                                                                              |
 |------	    |-------	           |-----	                                                                              |
-| N/A   	  | Python template    | [web-project-template](https://github.com/bengal865/web-project-templates)  	      |
-| N/A   	  | Python template    | [web-project-template](https://github.com/bengal865/web-project-templates)  	      |
-| N/A   	  | Python template    | [web-project-template](https://github.com/bengal865/web-project-templates)  	      |
-| N/A   	  | Python template    | [web-project-template](https://github.com/bengal865/web-project-templates)  	      |
-| N/A   	  | Python template    | [web-project-template](https://github.com/bengal865/web-project-templates)  	      |
-| N/A   	  | Python template    | [web-project-template](https://github.com/bengal865/web-project-templates)  	      |
-| N/A   	  | Python template    | [web-project-template](https://github.com/bengal865/web-project-templates)  	      |
-| N/A   	  | Python template    | [web-project-template](https://github.com/bengal865/web-project-templates)  	      |
-| N/A   	  | Python template    | [web-project-template](https://github.com/bengal865/web-project-templates)  	      |
-| N/A   	  | Python template    | [web-project-template](https://github.com/bengal865/web-project-templates)  	      |
-| N/A   	  | Python template    | [web-project-template](https://github.com/bengal865/web-project-templates)  	      |
-| N/A   	  | Python template    | [web-project-template](https://github.com/bengal865/web-project-templates)  	      |
+| N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
+| N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
+| N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
+| N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
+| N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
+| N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
+| N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
+| N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
+| N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
+| N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
+| N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
+| N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
+
 
 
