@@ -15,7 +15,7 @@
 | Functions      | Functions intro           |  [evidence-js-functions](https://github.com/bengal865/evidence-js-functions-starter)      	    |
 | Functions      | Functions intro           |  [evidence-js-functions](https://github.com/bengal865/evidence-js-functions-starter)      	    |
 | Functions      | Functions intro           |  [evidence-js-functions](https://github.com/bengal865/evidence-js-functions-starter)      	    |
-| JS Switch      | Functions intro           |  [js-switch-statements](https://github.com/bengal865/switch-statement-js-starter)      	    |
+| Conditionals   | Switch intro              |  [js-switch-statements](https://github.com/bengal865/switch-statement-js-starter)      	    |
 
 ## Python Starter Repos
 
