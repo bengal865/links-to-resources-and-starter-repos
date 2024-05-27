@@ -19,8 +19,12 @@
 
 ## Python Starter Repos
 
-| Unit 	                           | Topic      	                                                                                           | URL -----------------------------------------------------------------------------|
-| Variables & Data Types   	       | Python template                                                                                         | [python-variables-starter](https://github.com/bengal865/python-variables-starter)  |------------------------------------------------|
+| Unit 	                                     | Topic 	                   | URL 	                                                                                          |
+|------	                                     |-------	                   |----------	                                                                                    |
+| Variables & Data Types  	                 | Variables 101             | [python-variables-starter](https://github.com/bengal865/python-variables-starter)   	          |
+
+
+
 
 
 
