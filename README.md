@@ -21,7 +21,7 @@
 
 | Unit 	    | Topic 	           | URL 	                                                                              |
 |------	    |-------	           |-----	                                                                              |
-| N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
+| N/A   	  | Python template    | [python-variables-starter](https://github.com/bengal865/python-variables-starter)  |
 | N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
 | N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
 | N/A   	  | Python template    | [python-project-template](https://github.com/bengal865/python-project-templates)   |
