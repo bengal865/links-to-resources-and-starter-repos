@@ -1,6 +1,6 @@
 # Web & App Dev
 
-> [Generic markdown lesson plan]()
+> [Generic markdown lesson plan](https://github.com/bengal865/generic-md-lesson-plan/blob/main/generic-md-lesson-plan.md)
 
 ## Web Starter Repos
 
