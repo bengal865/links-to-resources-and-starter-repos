@@ -1,5 +1,7 @@
 # Web & App Dev
 
+> [Generic markdown lesson plan]()
+
 ## Web Starter Repos
 
 | Unit 	         | Topic 	                   | URL 	                                                                                          |
