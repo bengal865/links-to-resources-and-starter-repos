@@ -43,6 +43,7 @@
 |------	                                     |-------	                   |----------	                                                                                    | 
 | Variables & Data Types  	                 | Variables 101             | [python-variables-starter](https://github.com/bengal865/python-variables-starter)   	          | 
 | Variables & Data Types                     | Variables 101             | [python-variables-solution](https://github.com/bengal865/python-variables-solution)            |
+| GitHub Basics                              | GitHub                    | [github-basics-starter](https://github.com/bengal865/github-basics/tree/main)                  |
 
 
 
