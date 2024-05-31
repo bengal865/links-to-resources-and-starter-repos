@@ -1,8 +1,9 @@
 # Web & App Dev
 
-> [Generic markdown lesson plan](https://github.com/bengal865/generic-md-lesson-plan/blob/main/generic-md-lesson-plan.md)
+>  
+- [Generic markdown lesson plan](https://github.com/bengal865/generic-md-lesson-plan/blob/main/generic-md-lesson-plan.md)
 
-> [Essentialist lesson plan template](https://github.com/bengal865/markdown-templates/blob/master/bing-generated-lesson-plan-template.md)
+- [Essentialist lesson plan template](https://github.com/bengal865/markdown-templates/blob/master/bing-generated-lesson-plan-template.md)
 
 ## Web Starter Repos
 
