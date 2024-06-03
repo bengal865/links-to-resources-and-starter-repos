@@ -53,7 +53,7 @@
 | Simple Math Solution                       | Variables 101             | [simple-math-solution](https://github.com/bengal865/2425-python/tree/main/variables-data-types/variables-simple-math-solution)|
 
 
-https://github.com/bengal865/2425-python/tree/main/variables-data-types/variables-simple-math-starter
+
 
 
 
