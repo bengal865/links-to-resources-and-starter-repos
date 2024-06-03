@@ -48,6 +48,7 @@
 | GitHub Basics                              | GitHub                    | [github-basics-starter](https://github.com/bengal865/github-basics/tree/main)                  |
 | Functions                                  | Simple Text Adventure     | [text-adventure-solution](https://github.com/bengal865/2425-python/blob/main/functions/space-adventure-text-game.py)                  |
 | Strings Starter                            | Variables 101             | [strings-starter](https://github.com/bengal865/python-strings-starter/tree/main) |
+| Strings Solution                           | Variables 101             | [strings-solution](https://github.com/bengal865/python-strings-starter/tree/main) |
 
 
 
