@@ -63,11 +63,6 @@
 | Working with Lists                         | Modifying Lists           | *[Movie Night Python list solution](https://github.com/bengal865/movie-night-python-solution)* |
 
 
-- 
-- 
-- 
-- 
-- 
 
 
 
