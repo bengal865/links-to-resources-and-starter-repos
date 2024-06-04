@@ -58,8 +58,8 @@
 - *[Modifying Python lists solution](https://github.com/bengal865/python-lists-modifying-solution)*
 - [Managing Python list using a function starter](https://github.com/bengal865/manage-list-using-function-starter)
 - *[Managing Python list using a function solution](https://github.com/bengal865/manage-list-using-function-solution)*
-- [Movie Night Python starter](https://github.com/bengal865/movie-night-python-starter)
-- *[Movie Night Python solution](https://github.com/bengal865/movie-night-python-solution)*
+- [Movie Night Python list starter](https://github.com/bengal865/movie-night-python-starter)
+- *[Movie Night Python list solution](https://github.com/bengal865/movie-night-python-solution)*
 
 
 
