@@ -55,12 +55,10 @@
 | Variables MC 1  Solution                   | Variables 101             | [variables-mc1-solution](https://example.com) |
 | Working with Lists                         | Modifying Lists           | [Managing Python list using a function starter](https://github.com/bengal865/manage-list-using-function-starter) |
 | Working with Lists                         | Modifying Lists           | *[Managing Python list using a function solution](https://github.com/bengal865/manage-list-using-function-solution)* |
-
-| Working with Lists                         | Modifying Lists           | [Modifying Python lists starter](https://github.com/bengal865/python-lists-modifying-starter) |
-| Working with Lists                         | Modifying Lists           | *[Modifying Python lists solution](https://github.com/bengal865/python-lists-modifying-solution)* |
-
-| Working with Lists                         | Modifying Lists           | [Movie Night Python list starter](https://github.com/bengal865/movie-night-python-starter) |
-| Working with Lists                         | Modifying Lists           | *[Movie Night Python list solution](https://github.com/bengal865/movie-night-python-solution)* |
+| Working with Lists                         | Modifying Lists           | [Modifying Python lists starter](https://github.com/bengal865/python-lists-modifying-starter)                        |
+| Working with Lists                         | Modifying Lists           | *[Modifying Python lists solution](https://github.com/bengal865/python-lists-modifying-solution)*                    |
+| Working with Lists                         | Modifying Lists           | [Movie Night Python list starter](https://github.com/bengal865/movie-night-python-starter)                           |
+| Working with Lists                         | Modifying Lists           | *[Movie Night Python list solution](https://github.com/bengal865/movie-night-python-solution)*                       |
 
 
 
