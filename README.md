@@ -54,6 +54,9 @@
 | Variables MC 1  Starter                    | Variables 101             | [variables-mc1-starter](https://github.com/bengal865/variables-mc1-python) |
 | Variables MC 1  Solution                   | Variables 101             | [variables-mc1-solution](https://example.com) |
 
+- [Modifying Python lists starter](https://github.com/bengal865/python-lists-modifying-starter)
+- [Modifying Python lists solution](https://github.com/bengal865/python-lists-modifying-solution)
+
 
 
 
