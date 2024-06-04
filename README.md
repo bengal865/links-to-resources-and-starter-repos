@@ -51,6 +51,7 @@
 | Strings Solution                           | Variables 101             | [strings-solution](https://github.com/bengal865/python-strings-starter/tree/main)|
 | Simple Math Starter                        | Variables 101             | [simple-math-starter](https://github.com/bengal865/2425-python/tree/main/variables-data-types/variables-simple-math-starter) |
 | Simple Math Solution                       | Variables 101             | [simple-math-solution](https://github.com/bengal865/2425-python/tree/main/variables-data-types/variables-simple-math-solution)|
+| Variables MC 1                             | Variables 101             | [variables-mc1](https://github.com/bengal865/variables-mc1-python)                            |
 
 
 
