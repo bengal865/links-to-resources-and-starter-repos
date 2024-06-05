@@ -3,6 +3,10 @@
 > [Generic markdown lesson plan](https://github.com/bengal865/generic-md-lesson-plan/blob/main/generic-md-lesson-plan.md)
 > 
 > [Essentialist lesson plan template](https://github.com/bengal865/markdown-templates/blob/master/bing-generated-lesson-plan-template.md)
+>
+> [Python Mastery Check Template](https://github.com/bengal865/markdown-templates/blob/master/python-mastery-check-template.md)
+>
+> [Exit ticket template](https://www.example.com)
 
 ## Web Starter Repos
 
