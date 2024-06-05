@@ -56,14 +56,20 @@
 | Strings Solution                           | Variables 101             | [strings-solution](https://github.com/bengal865/python-strings-starter/tree/main)|
 | Simple Math Starter                        | Variables 101             | [simple-math-starter](https://github.com/bengal865/2425-python/tree/main/variables-data-types/variables-simple-math-starter) |
 | Simple Math Solution                       | Variables 101             | [simple-math-solution](https://github.com/bengal865/2425-python/tree/main/variables-data-types/variables-simple-math-solution)|
-| Variables MC 1  Starter                    | Variables 101             | [variables-mc1-starter](https://github.com/bengal865/variables-mc1-python) |
-| Variables MC 1  Solution                   | Variables 101             | [variables-mc1-solution](https://example.com) |
+| Variables MC 1  Starter                    | Variables 101             | [variables-mc1-starter](https://github.com/bengal865/variables-mc1-python)                                                   |
+| Variables MC 1  Solution                   | Variables 101             | [variables-mc1-solution](https://example.com)                                                                                |
+| Variables MC 2  Starter                    | String/Numeric Variables  | [variables-mc2-starter](https://github.com/bengal865/variables-mc2-starter)                                                  |
+| Variables MC 2  Solution                   | String/Numeric Variables  | [variables-mc2-solution](https://github.com/bengal865/variables-mc2-solution)                                                |
 | Working with Lists                         | Modifying Lists           | [Managing Python list using a function starter](https://github.com/bengal865/manage-list-using-function-starter)              |
 | Working with Lists                         | Modifying Lists           | *[Managing Python list using a function solution](https://github.com/bengal865/manage-list-using-function-solution)*          |
 | Working with Lists                         | Modifying Lists           | [List methods starter](https://github.com/bengal865/python-lists-modifying-starter)                                           |
 | Working with Lists                         | Modifying Lists           | *[List methods solution](https://github.com/bengal865/python-lists-modifying-solution)*                                       |
 | Working with Lists                         | Modifying Lists           | [Movie Night random list item starter](https://github.com/bengal865/movie-night-python-starter)                               |
 | Working with Lists                         | Modifying Lists           | *[Movie Night random list item solution](https://github.com/bengal865/movie-night-python-solution)*                           |
+
+
+
+
 
 
 
