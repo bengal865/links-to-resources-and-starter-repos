@@ -6,7 +6,8 @@
 >
 > [Python Mastery Check Template](https://github.com/bengal865/markdown-templates/blob/master/python-mastery-check-template.md)
 >
-> [Exit ticket template](https://www.example.com)
+> [Exit ticket template](https://github.com/bengal865/markdown-templates/blob/master/exit-ticket-template.md)
+
 
 ## Web Starter Repos
 
