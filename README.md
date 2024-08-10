@@ -1,10 +1,9 @@
 # Web & App Dev
 
 > Check out the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for some examples!
->
+> 
 > [Matthes, PCC, 2nd ed., resources on GitHub](https://github.com/ehmatthes/pcc_2e/tree/master)
 > 
-
 > [Generic markdown lesson plan](https://github.com/bengal865/generic-md-lesson-plan/blob/main/generic-md-lesson-plan.md)
 > 
 > [Essentialist lesson plan template](https://github.com/bengal865/markdown-templates/blob/master/bing-generated-lesson-plan-template.md)
