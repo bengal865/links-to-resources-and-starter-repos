@@ -53,6 +53,7 @@
 | Unit 	                                     | Topic 	                   | URL 	                                                                                          |
 |------	                                     |-------	                   |----------	                                                                                    | 
 | Variables & Data Types  	                 | Variables 101             | [python-variables-starter](https://github.com/bengal865/python-variables-starter)   	          | 
+| GitHub 2425 Python                         | Assorted                  | [2425 Python](https://github.com/bengal865/2425-python) |
 | Python 2223 folder                         | Assorted                  | [GDrive Python 2223 folder](https://drive.google.com/drive/folders/1WwfWgR1__8Kflr_dt7CgzkFRSBP9pt62?usp=sharing) |
 | Variables & Data Types                     | Variables 101             | [python-variables-solution](https://github.com/bengal865/python-variables-solution)            |
 | GitHub Basics                              | GitHub                    | [github-basics-starter](https://github.com/bengal865/github-basics/tree/main)                  |
