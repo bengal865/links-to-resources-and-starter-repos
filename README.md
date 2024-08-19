@@ -53,7 +53,7 @@
 | Unit 	                                     | Topic 	                   | URL 	                                                                                          |
 |------	                                     |-------	                   |----------	                                                                                    | 
 | Variables & Data Types  	                 | Variables 101             | [python-variables-starter](https://github.com/bengal865/python-variables-starter)   	          | 
-| Python 2223 folder                         |                           | [GDrive Python 2223 folder](https://drive.google.com/drive/folders/1WwfWgR1__8Kflr_dt7CgzkFRSBP9pt62?usp=sharing) |
+| Python 2223 folder                         | Assorted                  | [GDrive Python 2223 folder](https://drive.google.com/drive/folders/1WwfWgR1__8Kflr_dt7CgzkFRSBP9pt62?usp=sharing) |
 | Variables & Data Types                     | Variables 101             | [python-variables-solution](https://github.com/bengal865/python-variables-solution)            |
 | GitHub Basics                              | GitHub                    | [github-basics-starter](https://github.com/bengal865/github-basics/tree/main)                  |
 | Functions                                  | Simple Text Adventure     | [text-adventure-solution](https://github.com/bengal865/2425-python/blob/main/functions/space-adventure-text-game.py)                  |
