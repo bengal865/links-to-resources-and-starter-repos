@@ -1,6 +1,6 @@
 # Web & App Dev
 
-> [Batch planning tips](URL)
+> [Batch planning tips](https://github.com/bengal865/2425-python/blob/main/batch-planning-tips.md)
 >
 > Check out the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for some examples!
 > 
