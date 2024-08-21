@@ -34,7 +34,6 @@
 | Working with Lists                         | Modifying Lists           | *[List methods solution](https://github.com/bengal865/python-lists-modifying-solution)*                                       |
 | Working with Lists                         | Modifying Lists           | [Movie Night random list item starter](https://github.com/bengal865/movie-night-python-starter)                               |
 | Working with Lists                         | Modifying Lists           | *[Movie Night random list item solution](https://github.com/bengal865/movie-night-python-solution)*                           |
-
 | Unit name                                  | Topic                     | [link text](URL)                                                                                                              |
 | Unit name                                  | Topic                     | [link text](URL)                                                                                                              |
 | Unit name                                  | Topic                     | [link text](URL)                                                                                                              |
