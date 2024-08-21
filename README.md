@@ -2,17 +2,13 @@
 
 > [Batch planning tips](https://github.com/bengal865/2425-python/blob/main/batch-planning-tips.md)
 >
-> Check out the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for some examples!
-> 
 > [Matthes, PCC, 2nd ed., resources on GitHub](https://github.com/ehmatthes/pcc_2e/tree/master)
 > 
-> [Generic markdown lesson plan](https://github.com/bengal865/generic-md-lesson-plan/blob/main/generic-md-lesson-plan.md)
-> 
-> [Essentialist lesson plan template](https://github.com/bengal865/markdown-templates/blob/master/bing-generated-lesson-plan-template.md)
->
 > [Python Mastery Check Template](https://github.com/bengal865/markdown-templates/blob/master/python-mastery-check-template.md)
 >
 > [Exit ticket template](https://github.com/bengal865/markdown-templates/blob/master/exit-ticket-template.md)
+>
+> > Check out the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for some examples!
 
 
 ## Web Starter Repos
