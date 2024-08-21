@@ -20,8 +20,10 @@
 | Variables & Data Types                     | Variables 101             | [python-variables-solution](https://github.com/bengal865/python-variables-solution)            |
 | GitHub Basics                              | GitHub                    | [github-basics-starter](https://github.com/bengal865/github-basics/tree/main)                  |
 | Functions                                  | Simple Text Adventure     | [text-adventure-solution](https://github.com/bengal865/2425-python/blob/main/functions/space-adventure-text-game.py)                  |
-| Strings Starter                            | Variables 101             | [strings-starter](https://github.com/bengal865/python-strings-starter/tree/main) |
-| Strings Solution                           | Variables 101             | [strings-solution](https://github.com/bengal865/python-strings-starter/tree/main)|
+| Strings Starter                            | Strings                   | [strings-starter](https://github.com/bengal865/python-strings-starter/tree/main) |
+| Strings Solution                           | Strings                   | [strings-solution](https://github.com/bengal865/python-strings-starter/tree/main)|
+| Strings                                    | String Manipulation       | [link text](URL)                                                                                                              |
+| Strings                                    | String Manipulation       | [link text](URL)     
 | Simple Math Starter                        | Variables 101             | [simple-math-starter](https://github.com/bengal865/2425-python/tree/main/variables-data-types/variables-simple-math-starter) |
 | Simple Math Solution                       | Variables 101             | [simple-math-solution](https://github.com/bengal865/2425-python/tree/main/variables-data-types/variables-simple-math-solution)|
 | Variables MC 1  Starter                    | Variables 101             | [variables-mc1-starter](https://github.com/bengal865/variables-mc1-python)                                                   |
