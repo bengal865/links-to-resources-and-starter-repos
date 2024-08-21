@@ -8,7 +8,7 @@
 >
 > [Exit ticket template](https://github.com/bengal865/markdown-templates/blob/master/exit-ticket-template.md)
 >
-> > Check out the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for some examples!
+> [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) 
 
 
 ## Web Starter Repos
